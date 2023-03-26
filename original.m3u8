@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- Islami ---★★●•" tvg-logo="""" group-title="Islami - القنوات الإسلامية",•●★★--- Islami ---★★●•
-#EXTINF:-1 tvg-id="" tvg-name="Saudi Qraan" tvg-logo="[]" group-title="Islami - القنوات الإسلامية",AR: Saudi Qraan
+#EXTINF:-1 tvg-id="" tvg-name="Saudi Qraan" tvg-logo="[]" group-title="Islami - القنوات الإسلامية",Saudi Qraan
 http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/126.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Saudi Sunna" tvg-logo="" group-title="Islami - القنوات الإسلامية",AR: Saudi Sunna
+#EXTINF:-1 tvg-id="" tvg-name="Saudi Sunna" tvg-logo="" group-title="Islami - القنوات الإسلامية",Saudi Sunna
 http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/958.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Quran TV 2" tvg-logo="" group-title="Islami - القنوات الإسلامية",Ar: Quran TV 2
 http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3708.m3u8
