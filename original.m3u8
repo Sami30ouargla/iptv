@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- Islami ---★★●•" tvg-logo="""" group-title="Islami - القنوات الإسلامية",•●★★--- Islami ---★★●•
-#EXTINF:-1 tvg-id="" tvg-name="Saudi Qraan" tvg-logo="[]" group-title="Islami - القنوات الإسلامية",Saudi Qraan
+#EXTINF:-1 tvg-id="" tvg-name="Saudi Qraan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx7LDuMxyZLYLJlpuQMia7lBdmcp3A7UgaDw&usqp=CAU" group-title="Islami - القنوات الإسلامية",Saudi Qraan
 http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/126.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Saudi Sunna" tvg-logo="" group-title="Islami - القنوات الإسلامية",Saudi Sunna
 http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/958.m3u8
