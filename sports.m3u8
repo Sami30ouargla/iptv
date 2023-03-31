@@ -66,9 +66,9 @@ http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/53.m3u8
 http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/54.m3u8
 #EXTINF:-1 tvg-id="beinsports7ar.qa" tvg-name="beIN7 ᴴᴰ" tvg-logo="https://i.imgur.com/ArD2FmL.png" group-title="beIN [HD] ⚽",beIN7 ᴴᴰ
 http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4034.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN XTRA 1 ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7i5UnyCpopdZjWjEr23YUJ76nzd-1-fUp_g&usqp=CAU" group-title="beIN [HD] ⚽",beIN XTRA 1 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="beIN XTRA 1 ᴴᴰ" tvg-logo="" group-title="beIN [HD] ⚽",beIN XTRA 1 ᴴᴰ
 http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4095.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN XTRA 2 ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBom9QcHoiMCi4If6OaZH5Ra1f6tG_gf5rqw&usqp=CAU" group-title="beIN [HD] ⚽",beIN XTRA 2 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="beIN XTRA 2 ᴴᴰ" tvg-logo="" group-title="beIN [HD] ⚽",beIN XTRA 2 ᴴᴰ
 http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4096.m3u8
 #EXTINF:-1 tvg-id="beinsports1enar.qa" tvg-name=" beIN  ENGLISH 1 ᴴᴰ" tvg-logo="https://i.imgur.com/Z03QVfY.png" group-title="beIN [HD] ⚽", beIN  ENGLISH 1 ᴴᴰ
 http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3001.m3u8
@@ -102,7 +102,7 @@ http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/61.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN 7SD" tvg-logo="" group-title="beIN [SD] ⚽",beIN 7SD
 http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4035.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- SSC Sports - Serie A---★★●•" tvg-logo="" group-title="SerieA - الدوري الإيطالي",•●★★--- SSC Sports - Serie A---★★●•
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 1 (1080p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYUwggJJ0mDa9xnXGdk-PWdPbh9eIan1LkUQ&usqp=CAU" group-title="SSC Sports - Arab Sports [الرياضة العربية]"SSC SPORT 1 1080p
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 1 (1080p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafNBLMX-Lyt_8U82kqxf0HC0NJ0wEyBrt2w&usqp=CAU" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC SPORT 1 (1080p)
 http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4119.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 2 (1080p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafNBLMX-Lyt_8U82kqxf0HC0NJ0wEyBrt2w&usqp=CAU" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC SPORT 2 (1080p)
 http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4120.m3u8
