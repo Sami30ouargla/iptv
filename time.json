@@ -1,1 +1,183 @@
-{"abbreviation":"CAT","client_ip":"105.97.185.112","datetime":"2023-06-23T18:09:31.415604+02:00","day_of_week":5,"day_of_year":174,"dst":false,"dst_from":null,"dst_offset":0,"dst_until":null,"raw_offset":7200,"timezone":"Africa/Khartoum","unixtime":1687536571,"utc_datetime":"2023-06-23T16:09:31.415604+00:00","utc_offset":"+02:00","week_number":25}
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="[NETFLIX] SCi-Fi" tvg-logo="" group-title="UGEEN BOX OFFICE",[NETFLIX] SCi-Fi
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2420
+#EXTINF:-1 tvg-id="" tvg-name="[NETFLIX] Horror" tvg-logo="" group-title="UGEEN BOX OFFICE",[NETFLIX] Horror
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2422
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX_SCI FI" tvg-logo="" group-title="UGEEN BOX OFFICE",NETFLIX_SCI FI
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2506
+#EXTINF:-1 tvg-id="" tvg-name="Netflex Action" tvg-logo="" group-title="UGEEN BOX OFFICE",Netflex Action
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2116
+#EXTINF:-1 tvg-id="" tvg-name="Netflix  cinema" tvg-logo="" group-title="UGEEN BOX OFFICE",Netflix  cinema
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2041
+#EXTINF:-1 tvg-id="" tvg-name="Netflix " tvg-logo="" group-title="UGEEN BOX OFFICE",Netflix 
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2042
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror" tvg-logo="" group-title="UGEEN BOX OFFICE",Netflix Horror
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2043
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy" tvg-logo="" group-title="UGEEN BOX OFFICE",Netflix Comedy
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2044
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX  ACTION" tvg-logo="" group-title="UGEEN BOX OFFICE",NETFLIX  ACTION
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2047
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX_DRAMA" tvg-logo="" group-title="UGEEN BOX OFFICE",NETFLIX_DRAMA
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2347
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror 2" tvg-logo="" group-title="UGEEN BOX OFFICE",Netflix Horror 2
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2350
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX_THRILLER" tvg-logo="" group-title="UGEEN BOX OFFICE",NETFLIX_THRILLER
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2358
+#EXTINF:-1 tvg-id="" tvg-name="AR: NETFLIX  documentary" tvg-logo="" group-title="UGEEN BOX OFFICE",AR: NETFLIX  documentary
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3416
+#EXTINF:-1 tvg-id="" tvg-name="AR: NETFLIX Super" tvg-logo="" group-title="UGEEN BOX OFFICE",AR: NETFLIX Super
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3422
+#EXTINF:-1 tvg-id="" tvg-name="AR: NETFLIX Kids +1" tvg-logo="" group-title="UGEEN BOX OFFICE",AR: NETFLIX Kids +1
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3436
+#EXTINF:-1 tvg-id="" tvg-name="AR: Netflix WWE" tvg-logo="" group-title="UGEEN BOX OFFICE",AR: Netflix WWE
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3437
+#EXTINF:-1 tvg-id="" tvg-name="AR:  Netflix  Super" tvg-logo="" group-title="UGEEN BOX OFFICE",AR:  Netflix  Super
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3718
+#EXTINF:-1 tvg-id="" tvg-name="Netflix+ Action" tvg-logo="" group-title="UGEEN BOX OFFICE",Netflix+ Action
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3538
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX+ HORROR" tvg-logo="" group-title="UGEEN BOX OFFICE",NETFLIX+ HORROR
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3539
+#EXTINF:-1 tvg-id="" tvg-name="[Shahid Action]" tvg-logo="" group-title="UGEEN BOX OFFICE",[Shahid Action]
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2423
+#EXTINF:-1 tvg-id="" tvg-name="[Shahid ANIMATION]" tvg-logo="" group-title="UGEEN BOX OFFICE",[Shahid ANIMATION]
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2424
+#EXTINF:-1 tvg-id="" tvg-name="[Shahid HINDI]" tvg-logo="" group-title="UGEEN BOX OFFICE",[Shahid HINDI]
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2426
+#EXTINF:-1 tvg-id="" tvg-name="[Shahid HORROR]" tvg-logo="" group-title="UGEEN BOX OFFICE",[Shahid HORROR]
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2427
+#EXTINF:-1 tvg-id="" tvg-name="AR HBO Action" tvg-logo="" group-title="UGEEN BOX OFFICE",AR HBO Action
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3250
+#EXTINF:-1 tvg-id="" tvg-name="AR :HBO Arabic" tvg-logo="" group-title="UGEEN BOX OFFICE",AR :HBO Arabic
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3251
+#EXTINF:-1 tvg-id="" tvg-name="AR :HBO Horror" tvg-logo="" group-title="UGEEN BOX OFFICE",AR :HBO Horror
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3253
+#EXTINF:-1 tvg-id="" tvg-name="TOM &JERRY LIVE" tvg-logo="" group-title="UGEEN BOX OFFICE",TOM &JERRY LIVE
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2819
+#EXTINF:-1 tvg-id="" tvg-name="Shamel Aflam 1HD" tvg-logo="" group-title="UGEEN BOX OFFICE",Shamel Aflam 1HD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2929
+#EXTINF:-1 tvg-id="" tvg-name="ugeen KidsCo Movies" tvg-logo="" group-title="UGEEN BOX OFFICE",ugeen KidsCo Movies
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3697
+#EXTINF:-1 tvg-id="" tvg-name="AR: Masra7 Masr" tvg-logo="" group-title="UGEEN BOX OFFICE",AR: Masra7 Masr
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3730
+#EXTINF:-1 tvg-id="" tvg-name="Casper Action 1" tvg-logo="" group-title="UGEEN BOX OFFICE",Casper Action 1
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3938
+#EXTINF:-1 tvg-id="" tvg-name="Casper Action 2" tvg-logo="" group-title="UGEEN BOX OFFICE",Casper Action 2
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3939
+#EXTINF:-1 tvg-id="" tvg-name="Casper Arabic" tvg-logo="" group-title="UGEEN BOX OFFICE",Casper Arabic
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3942
+#EXTINF:-1 tvg-id="" tvg-name="Casper Comedy" tvg-logo="" group-title="UGEEN BOX OFFICE",Casper Comedy
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3943
+#EXTINF:-1 tvg-id="" tvg-name="Casper horror" tvg-logo="" group-title="UGEEN BOX OFFICE",Casper horror
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3944
+#EXTINF:-1 tvg-id="" tvg-name="EONE CINEMA 2 " tvg-logo="" group-title="UGEEN BOX OFFICE",EONE CINEMA 2 
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3565
+#EXTINF:-1 tvg-id="" tvg-name="EONE CINEMA 3" tvg-logo="" group-title="UGEEN BOX OFFICE",EONE CINEMA 3
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3567
+#EXTINF:-1 tvg-id="" tvg-name="ON Arabic ᴴᴰ" tvg-logo="" group-title="UGEEN BOX OFFICE",ON Arabic ᴴᴰ
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3574
+#EXTINF:-1 tvg-id="" tvg-name="ON Cinema ᴴᴰ" tvg-logo="" group-title="UGEEN BOX OFFICE",ON Cinema ᴴᴰ
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3575
+#EXTINF:-1 tvg-id="" tvg-name="ON Horror" tvg-logo="" group-title="UGEEN BOX OFFICE",ON Horror
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3576
+#EXTINF:-1 tvg-id="" tvg-name="On  Funny HD" tvg-logo="" group-title="UGEEN BOX OFFICE",On  Funny HD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3577
+#EXTINF:-1 tvg-id="" tvg-name="ON Turkeyᴴᴰ" tvg-logo="" group-title="UGEEN BOX OFFICE",ON Turkeyᴴᴰ
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3578
+#EXTINF:-1 tvg-id="" tvg-name="ON Movies ᴴᴰ" tvg-logo="" group-title="UGEEN BOX OFFICE",ON Movies ᴴᴰ
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3579
+#EXTINF:-1 tvg-id="" tvg-name="shahid masr" tvg-logo="" group-title="UGEEN BOX OFFICE",shahid masr
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3600
+#EXTINF:-1 tvg-id="" tvg-name="shahid alzaeem" tvg-logo="" group-title="UGEEN BOX OFFICE",shahid alzaeem
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3601
+#EXTINF:-1 tvg-id="" tvg-name="shahid wwe" tvg-logo="" group-title="UGEEN BOX OFFICE",shahid wwe
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3602
+#EXTINF:-1 tvg-id="" tvg-name="AR: RADIO UMM KULTHUM" tvg-logo="" group-title="UGEEN BOX OFFICE",AR: RADIO UMM KULTHUM
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3691
+#EXTINF:-1 tvg-id="" tvg-name="AR: RADIO Mega FM" tvg-logo="" group-title="UGEEN BOX OFFICE",AR: RADIO Mega FM
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3692
+#EXTINF:-1 tvg-id="" tvg-name="AR: RADIO Mahtt Masr" tvg-logo="" group-title="UGEEN BOX OFFICE",AR: RADIO Mahtt Masr
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3693
+#EXTINF:-1 tvg-id="" tvg-name="AR: RADIO Nagham FM" tvg-logo="" group-title="UGEEN BOX OFFICE",AR: RADIO Nagham FM
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3694
+#EXTINF:-1 tvg-id="" tvg-name="AR: Shahid VIP Comedy" tvg-logo="" group-title="UGEEN BOX OFFICE",AR: Shahid VIP Comedy
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3722
+#EXTINF:-1 tvg-id="" tvg-name="AR: Shahid  Western" tvg-logo="" group-title="UGEEN BOX OFFICE",AR: Shahid  Western
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3723
+#EXTINF:-1 tvg-id="" tvg-name="AR: Shahid VIP INDIA" tvg-logo="" group-title="UGEEN BOX OFFICE",AR: Shahid VIP INDIA
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3714
+#EXTINF:-1 tvg-id="" tvg-name="AR: Shahid VIP Arabic" tvg-logo="" group-title="UGEEN BOX OFFICE",AR: Shahid VIP Arabic
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3715
+#EXTINF:-1 tvg-id="" tvg-name="AR: Shahid VIP TURKISH" tvg-logo="" group-title="UGEEN BOX OFFICE",AR: Shahid VIP TURKISH
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3716
+#EXTINF:-1 tvg-id="" tvg-name="AR: Shahid VIP Action" tvg-logo="" group-title="UGEEN BOX OFFICE",AR: Shahid VIP Action
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3713
+#EXTINF:-1 tvg-id="" tvg-name="AR: Shahid VIP Documentary" tvg-logo="" group-title="UGEEN BOX OFFICE",AR: Shahid VIP Documentary
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3717
+#EXTINF:-1 tvg-id="" tvg-name="AR: Shahid VIP Wild" tvg-logo="" group-title="UGEEN BOX OFFICE",AR: Shahid VIP Wild
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3720
+#EXTINF:-1 tvg-id="" tvg-name="AR: Shahid VIP Anime" tvg-logo="" group-title="UGEEN BOX OFFICE",AR: Shahid VIP Anime
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3721
+#EXTINF:-1 tvg-id="" tvg-name="Shahid VIP Arabic Classic" tvg-logo="https://i.ibb.co/yhZvcmP/8.png" group-title="UGEEN BOX OFFICE",Shahid VIP Arabic Classic
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4051
+#EXTINF:-1 tvg-id="" tvg-name="Shahid VIP Masrahiyat" tvg-logo="https://i.ibb.co/fY4S4b3/9.png" group-title="UGEEN BOX OFFICE",Shahid VIP Masrahiyat
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4052
+#EXTINF:-1 tvg-id="" tvg-name="Shahid VIP Western" tvg-logo="https://i.ibb.co/vLCG0sC/10.png" group-title="UGEEN BOX OFFICE",Shahid VIP Western
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4053
+#EXTINF:-1 tvg-id="" tvg-name="Shahid VIP Drama" tvg-logo="https://i.ibb.co/PrF68pP/11.png" group-title="UGEEN BOX OFFICE",Shahid VIP Drama
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4054
+#EXTINF:-1 tvg-id="" tvg-name="Shahid VIP Comedy" tvg-logo="https://i.ibb.co/p3Kbg7Y/12.png" group-title="UGEEN BOX OFFICE",Shahid VIP Comedy
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4055
+#EXTINF:-1 tvg-id="" tvg-name="Shahid VIP Horror" tvg-logo="https://i.ibb.co/L6N7bCW/13.png" group-title="UGEEN BOX OFFICE",Shahid VIP Horror
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4056
+#EXTINF:-1 tvg-id="" tvg-name="Shahid VIP SCI FI" tvg-logo="https://i.ibb.co/f0N41dX/14.png" group-title="UGEEN BOX OFFICE",Shahid VIP SCI FI
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4057
+#EXTINF:-1 tvg-id="" tvg-name="Shahid VIP Adventure" tvg-logo="https://i.ibb.co/3cPVVMZ/15.png" group-title="UGEEN BOX OFFICE",Shahid VIP Adventure
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4058
+#EXTINF:-1 tvg-id="" tvg-name="Shahid VIP WAR" tvg-logo="https://i.ibb.co/284NSBq/16.png" group-title="UGEEN BOX OFFICE",Shahid VIP WAR
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4059
+#EXTINF:-1 tvg-id="" tvg-name="Shahid VIP Romance" tvg-logo="https://i.ibb.co/xGZn6Nt/17.png" group-title="UGEEN BOX OFFICE",Shahid VIP Romance
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4060
+#EXTINF:-1 tvg-id="" tvg-name="AR: Shamel Aflam 2HD" tvg-logo="" group-title="UGEEN BOX OFFICE",AR: Shamel Aflam 2HD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3725
+#EXTINF:-1 tvg-id="" tvg-name="OXN Box-office" tvg-logo="" group-title="UGEEN BOX OFFICE",OXN Box-office
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4190
+#EXTINF:-1 tvg-id="" tvg-name="OXN Cinema 1" tvg-logo="" group-title="UGEEN BOX OFFICE",OXN Cinema 1
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4191
+#EXTINF:-1 tvg-id="" tvg-name="OXN Cinema 2" tvg-logo="" group-title="UGEEN BOX OFFICE",OXN Cinema 2
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4192
+#EXTINF:-1 tvg-id="" tvg-name="OXN Islamic" tvg-logo="" group-title="UGEEN BOX OFFICE",OXN Islamic
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4193
+#EXTINF:-1 tvg-id="" tvg-name="OXN MIX" tvg-logo="" group-title="UGEEN BOX OFFICE",OXN MIX
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4194
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1" tvg-logo="" group-title="UGEEN BOX OFFICE",HBO MAX 1
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4196
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2" tvg-logo="" group-title="UGEEN BOX OFFICE",HBO MAX 2
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4197
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3" tvg-logo="" group-title="UGEEN BOX OFFICE",HBO MAX 3
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4198
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4" tvg-logo="" group-title="UGEEN BOX OFFICE",HBO MAX 4
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4199
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Arabic" tvg-logo="" group-title="UGEEN BOX OFFICE",Dragon Arabic
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4200
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON COMEDY" tvg-logo="" group-title="UGEEN BOX OFFICE",DRAGON COMEDY
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4201
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON ULTRA" tvg-logo="" group-title="UGEEN BOX OFFICE",DRAGON ULTRA
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4202
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Action" tvg-logo="" group-title="UGEEN BOX OFFICE",Dragon Action
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4203
+#EXTINF:-1 tvg-id="" tvg-name="HULU ARABIC" tvg-logo="" group-title="UGEEN BOX OFFICE",HULU ARABIC
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4205
+#EXTINF:-1 tvg-id="" tvg-name="HULU Bollywood" tvg-logo="" group-title="UGEEN BOX OFFICE",HULU Bollywood
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4206
+#EXTINF:-1 tvg-id="" tvg-name="HULU Box-Office" tvg-logo="" group-title="UGEEN BOX OFFICE",HULU Box-Office
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4207
+#EXTINF:-1 tvg-id="" tvg-name="HULU Kids" tvg-logo="" group-title="UGEEN BOX OFFICE",HULU Kids
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4208
+#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX 1" tvg-logo="" group-title="UGEEN BOX OFFICE",SKYFLIX 1
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4213
+#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX 2" tvg-logo="" group-title="UGEEN BOX OFFICE",SKYFLIX 2
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4214
+#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX 3" tvg-logo="" group-title="UGEEN BOX OFFICE",SKYFLIX 3
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4215
+#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX 4" tvg-logo="" group-title="UGEEN BOX OFFICE",SKYFLIX 4
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4216
