@@ -1,1 +1,39 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 1 HD" tvg-logo="" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN Movies 1 HD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/24
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 2 HD" tvg-logo="[" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN Movies 2 HD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/17
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 3 HD" tvg-logo="[" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN Movies 3 HD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/18
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 4 HD " tvg-logo="[" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN Movies 4 HD 
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/19
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series 1 HD" tvg-logo="" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN Series 1 HD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/20
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series 2 HD" tvg-logo="" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN Series 2 HD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/21
+#EXTINF:-1 tvg-id="" tvg-name="AR:  beIN Outdoor" tvg-logo="[" group-title="beIN Entertainment - بي إن الترفيهية",AR:  beIN Outdoor
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/13
+#EXTINF:-1 tvg-id="" tvg-name="AR:  beIN AMC" tvg-logo="[" group-title="beIN Entertainment - بي إن الترفيهية",AR:  beIN AMC
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/14
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Drama" tvg-logo="[" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN Drama
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/15
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN  Gourmet" tvg-logo="[" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN  Gourmet
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/16
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Jeem HD" tvg-logo="[" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN Jeem HD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/22
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Fox Movies" tvg-logo="[" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN Fox Movies
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/23
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN FATAFEAT HD" tvg-logo="[" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN FATAFEAT HD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/25
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Baraeem" tvg-logo="" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN Baraeem
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2028
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN JUNIOR HD" tvg-logo="" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN JUNIOR HD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2947
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN DREAMWORKS HD" tvg-logo="" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN DREAMWORKS HD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2948
+#EXTINF:-1 tvg-id="" tvg-name="AR:Cartoon Network Arabic" tvg-logo="" group-title="beIN Entertainment - بي إن الترفيهية",AR:Cartoon Network Arabic
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2949
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN BOXOFFICE HD1" tvg-logo="" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN BOXOFFICE HD1
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3276
+#EXTINF:-1 tvg-id="" tvg-name="Bein BBC Earth HD" tvg-logo="" group-title="beIN Entertainment - بي إن الترفيهية",Bein BBC Earth HD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3945
