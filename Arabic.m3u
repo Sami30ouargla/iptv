@@ -1,285 +1,71 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Cinema " tvg-logo="[" group-title="Rotana - روتانا",AR:Rotana Cinema 
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/106
-#EXTINF:-1 tvg-id="" tvg-name="AR: Rotana Cinema KSA" tvg-logo="[" group-title="Rotana - روتانا",AR: Rotana Cinema KSA
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/107
-#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Aflam" tvg-logo="[" group-title="Rotana - روتانا",AR:Rotana Aflam
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/108
-#EXTINF:-1 tvg-id="" tvg-name="AR: Rotana  Comedy " tvg-logo="[" group-title="Rotana - روتانا",AR: Rotana  Comedy 
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/109
-#EXTINF:-1 tvg-id="" tvg-name="AR: Rotana Classic " tvg-logo="[" group-title="Rotana - روتانا",AR: Rotana Classic 
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/110
-#EXTINF:-1 tvg-id="" tvg-name="AR: Rotana Drama" tvg-logo="" group-title="Rotana - روتانا",AR: Rotana Drama
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3215
-#EXTINF:-1 tvg-id="" tvg-name="AR: Rotana Comedy" tvg-logo="" group-title="Rotana - روتانا",AR: Rotana Comedy
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3216
-#EXTINF:-1 tvg-id="" tvg-name="AR: Rotana Clip" tvg-logo="" group-title="Rotana - روتانا",AR: Rotana Clip
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3217
-#EXTINF:-1 tvg-id="" tvg-name="AR: Rotana Khaliji" tvg-logo="" group-title="Rotana - روتانا",AR: Rotana Khaliji
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3218
-#EXTINF:-1 tvg-id="" tvg-name="AR: ON Time Sport 1HD" tvg-logo="" group-title="Egypt - مصر",AR: ON Time Sport 1HD
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/507
-#EXTINF:-1 tvg-id="" tvg-name="AR: ON Time Sport 1 SD" tvg-logo="" group-title="Egypt - مصر",AR: ON Time Sport 1 SD
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4298
-#EXTINF:-1 tvg-id="" tvg-name="AR: ON Time Sport 2 HD" tvg-logo="" group-title="Egypt - مصر",AR: ON Time Sport 2 HD
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/949
-#EXTINF:-1 tvg-id="" tvg-name="AR: Time Sport" tvg-logo="" group-title="Egypt - مصر",AR: Time Sport
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/951
-#EXTINF:-1 tvg-id="" tvg-name="AR: Alahly" tvg-logo="" group-title="Egypt - مصر",AR: Alahly
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/952
-#EXTINF:-1 tvg-id="" tvg-name="AR: Zamalek TV" tvg-logo="" group-title="Egypt - مصر",AR: Zamalek TV
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2068
-#EXTINF:-1 tvg-id="" tvg-name="AR:  Sada Elbabad" tvg-logo="" group-title="Egypt - مصر",AR:  Sada Elbabad
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/495
-#EXTINF:-1 tvg-id="" tvg-name="AR:  Nile Sport" tvg-logo="" group-title="Egypt - مصر",AR:  Nile Sport
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/496
-#EXTINF:-1 tvg-id="" tvg-name="AR:  Nile Comedy" tvg-logo="" group-title="Egypt - مصر",AR:  Nile Comedy
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/497
-#EXTINF:-1 tvg-id="" tvg-name="AR: Nile News" tvg-logo="" group-title="Egypt - مصر",AR: Nile News
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/498
-#EXTINF:-1 tvg-id="" tvg-name="AR: D Drama" tvg-logo="" group-title="Egypt - مصر",AR: D Drama
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/499
-#EXTINF:-1 tvg-id="" tvg-name="AR: Al Shams" tvg-logo="" group-title="Egypt - مصر",AR: Al Shams
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4106
-#EXTINF:-1 tvg-id="" tvg-name="AR:CBC Drama" tvg-logo="" group-title="Egypt - مصر",AR:CBC Drama
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/500
-#EXTINF:-1 tvg-id="" tvg-name="AR:CBC Sofra" tvg-logo="" group-title="Egypt - مصر",AR:CBC Sofra
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/501
-#EXTINF:-1 tvg-id="" tvg-name="AR:CBC" tvg-logo="" group-title="Egypt - مصر",AR:CBC
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/502
-#EXTINF:-1 tvg-id="" tvg-name="AR:DMC" tvg-logo="" group-title="Egypt - مصر",AR:DMC
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/503
-#EXTINF:-1 tvg-id="" tvg-name="AR:Alnahar" tvg-logo="" group-title="Egypt - مصر",AR:Alnahar
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/504
-#EXTINF:-1 tvg-id="" tvg-name="AR: ALnahar Drama" tvg-logo="" group-title="Egypt - مصر",AR: ALnahar Drama
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/505
-#EXTINF:-1 tvg-id="" tvg-name="AR: ON Drama" tvg-logo="" group-title="Egypt - مصر",AR: ON Drama
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/506
-#EXTINF:-1 tvg-id="" tvg-name="AR: ON E" tvg-logo="" group-title="Egypt - مصر",AR: ON E
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/508
-#EXTINF:-1 tvg-id="" tvg-name="AR: Alhayah" tvg-logo="" group-title="Egypt - مصر",AR: Alhayah
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/509
-#EXTINF:-1 tvg-id="" tvg-name="AR:  Maspero-Zaman" tvg-logo="" group-title="Egypt - مصر",AR:  Maspero-Zaman
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/950
-#EXTINF:-1 tvg-id="" tvg-name="AR: Mehwar" tvg-logo="" group-title="Egypt - مصر",AR: Mehwar
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/510
-#EXTINF:-1 tvg-id="" tvg-name="AR : Zee Alwan" tvg-logo="" group-title="Egypt - مصر",AR : Zee Alwan
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3308
-#EXTINF:-1 tvg-id="" tvg-name="AR : ZEE AFLAM" tvg-logo="" group-title="Egypt - مصر",AR : ZEE AFLAM
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3309
-#EXTINF:-1 tvg-id="" tvg-name="AR: FajerTV1 HD" tvg-logo="" group-title="Palestine - فلسطين",AR: FajerTV1 HD
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/584
-#EXTINF:-1 tvg-id="" tvg-name="AR: FajerTV2 HD" tvg-logo="" group-title="Palestine - فلسطين",AR: FajerTV2 HD
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/587
-#EXTINF:-1 tvg-id="" tvg-name="Al Fajer 3" tvg-logo="" group-title="Palestine - فلسطين",Al Fajer 3
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4028
-#EXTINF:-1 tvg-id="" tvg-name="Al Fajer 4" tvg-logo="" group-title="Palestine - فلسطين",Al Fajer 4
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4029
-#EXTINF:-1 tvg-id="" tvg-name="Al Fajer 5" tvg-logo="" group-title="Palestine - فلسطين",Al Fajer 5
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4030
-#EXTINF:-1 tvg-id="" tvg-name="AR: AL aqsa" tvg-logo="" group-title="Palestine - فلسطين",AR: AL aqsa
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4304
-#EXTINF:-1 tvg-id="" tvg-name="AR: palastine  live" tvg-logo="" group-title="Palestine - فلسطين",AR: palastine  live
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/590
-#EXTINF:-1 tvg-id="" tvg-name="AR: Raya" tvg-logo="" group-title="Palestine - فلسطين",AR: Raya
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/481
-#EXTINF:-1 tvg-id="" tvg-name="AR: Palstine Today" tvg-logo="" group-title="Palestine - فلسطين",AR: Palstine Today
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/486
-#EXTINF:-1 tvg-id="" tvg-name="AR: nablus live" tvg-logo="" group-title="Palestine - فلسطين",AR: nablus live
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3045
-#EXTINF:-1 tvg-id="" tvg-name="AR: Watan Tv" tvg-logo="" group-title="Palestine - فلسطين",AR: Watan Tv
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3958
-#EXTINF:-1 tvg-id="" tvg-name="AR: Nagah" tvg-logo="" group-title="Palestine - فلسطين",AR: Nagah
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3960
-#EXTINF:-1 tvg-id="" tvg-name="AR: Water 3" tvg-logo="" group-title="Palestine - فلسطين",AR: Water 3
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3962
-#EXTINF:-1 tvg-id="" tvg-name="AR: Hala HD" tvg-logo="" group-title="Palestine - فلسطين",AR: Hala HD
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3964
-#EXTINF:-1 tvg-id="" tvg-name="AR: PNN" tvg-logo="" group-title="Palestine - فلسطين",AR: PNN
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3965
-#EXTINF:-1 tvg-id="" tvg-name="AR: Al Quds Today" tvg-logo="" group-title="Palestine - فلسطين",AR: Al Quds Today
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3966
-#EXTINF:-1 tvg-id="" tvg-name="AR: Al Falastenia" tvg-logo="" group-title="Palestine - فلسطين",AR: Al Falastenia
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3968
-#EXTINF:-1 tvg-id="" tvg-name="[LIB] Libya Sport Channel" tvg-logo="" group-title="Libya - ليبيا",[LIB] Libya Sport Channel
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3455
-#EXTINF:-1 tvg-id="" tvg-name="AR: Libya Sport 2" tvg-logo="" group-title="Libya - ليبيا",AR: Libya Sport 2
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3652
-#EXTINF:-1 tvg-id="" tvg-name="AR: LIBYA 218 HD" tvg-logo="" group-title="Libya - ليبيا",AR: LIBYA 218 HD
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3128
-#EXTINF:-1 tvg-id="" tvg-name="AR: Libya 218 News" tvg-logo="" group-title="Libya - ليبيا",AR: Libya 218 News
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3129
-#EXTINF:-1 tvg-id="" tvg-name="AR: Libya AlAhrar" tvg-logo="" group-title="Libya - ليبيا",AR: Libya AlAhrar
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3130
-#EXTINF:-1 tvg-id="" tvg-name="AR: Libya Alhadath" tvg-logo="" group-title="Libya - ليبيا",AR: Libya Alhadath
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3131
-#EXTINF:-1 tvg-id="" tvg-name="AR: Libya Alwatanya" tvg-logo="" group-title="Libya - ليبيا",AR: Libya Alwatanya
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3133
-#EXTINF:-1 tvg-id="" tvg-name="AR: Libya elwatan" tvg-logo="" group-title="Libya - ليبيا",AR: Libya elwatan
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3134
-#EXTINF:-1 tvg-id="" tvg-name="AR: LIBYA WTV" tvg-logo="" group-title="Libya - ليبيا",AR: LIBYA WTV
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3136
-#EXTINF:-1 tvg-id="" tvg-name="AR: Libya 218" tvg-logo="" group-title="Libya - ليبيا",AR: Libya 218
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3137
-#EXTINF:-1 tvg-id="" tvg-name="AR: Libya Tanasuh" tvg-logo="" group-title="Libya - ليبيا",AR: Libya Tanasuh
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3138
-#EXTINF:-1 tvg-id="" tvg-name="AR: Libya Waad" tvg-logo="" group-title="Libya - ليبيا",AR: Libya Waad
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3139
-#EXTINF:-1 tvg-id="" tvg-name="AR: Libyas Channel" tvg-logo="" group-title="Libya - ليبيا",AR: Libyas Channel
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3140
-#EXTINF:-1 tvg-id="" tvg-name=" MA:ALOULA INT " tvg-logo="" group-title="Morocco - المغرب", MA:ALOULA INT 
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/726
-#EXTINF:-1 tvg-id="" tvg-name=" MA:ALMAGHRIBIA " tvg-logo="" group-title="Morocco - المغرب", MA:ALMAGHRIBIA 
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/727
-#EXTINF:-1 tvg-id="" tvg-name=" MA:2M " tvg-logo="" group-title="Morocco - المغرب", MA:2M 
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/728
-#EXTINF:-1 tvg-id="" tvg-name=" MA: CHADA TV" tvg-logo="" group-title="Morocco - المغرب", MA: CHADA TV
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/729
-#EXTINF:-1 tvg-id="" tvg-name=" MA:ASSADISA " tvg-logo="" group-title="Morocco - المغرب", MA:ASSADISA 
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/730
-#EXTINF:-1 tvg-id="" tvg-name=" MA:ARRIADIA " tvg-logo="" group-title="Morocco - المغرب", MA:ARRIADIA 
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/731
-#EXTINF:-1 tvg-id="" tvg-name=" MA:MEDI1 " tvg-logo="" group-title="Morocco - المغرب", MA:MEDI1 
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/732
-#EXTINF:-1 tvg-id="" tvg-name=" MA:ALMAGHRIBIA NEWS " tvg-logo="" group-title="Morocco - المغرب", MA:ALMAGHRIBIA NEWS 
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/734
-#EXTINF:-1 tvg-id="" tvg-name=" MA:TELE MAROC " tvg-logo="" group-title="Morocco - المغرب", MA:TELE MAROC 
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/735
-#EXTINF:-1 tvg-id="" tvg-name=" MA:TAMAZIGHT " tvg-logo="" group-title="Morocco - المغرب", MA:TAMAZIGHT 
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/736
-#EXTINF:-1 tvg-id="" tvg-name="AR: Alrrabia FHD" tvg-logo="" group-title="Morocco - المغرب",AR: Alrrabia FHD
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3107
-#EXTINF:-1 tvg-id="" tvg-name="AR: M24" tvg-logo="" group-title="Morocco - المغرب",AR: M24
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3109
-#EXTINF:-1 tvg-id="" tvg-name="AR: Canal Atlas" tvg-logo="" group-title="Morocco - المغرب",AR: Canal Atlas
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3110
-#EXTINF:-1 tvg-id="" tvg-name="AR: Tamazight HD" tvg-logo="" group-title="Morocco - المغرب",AR: Tamazight HD
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3114
-#EXTINF:-1 tvg-id="" tvg-name="AR: Medi1 Afrique FHD" tvg-logo="" group-title="Morocco - المغرب",AR: Medi1 Afrique FHD
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3115
-#EXTINF:-1 tvg-id="" tvg-name="AR: Maroc 7 Aflam" tvg-logo="" group-title="Morocco - المغرب",AR: Maroc 7 Aflam
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3988
-#EXTINF:-1 tvg-id="" tvg-name="AR: Baya TV HD" tvg-logo="" group-title="Tunisia - تونس",AR: Baya TV HD
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3878
-#EXTINF:-1 tvg-id="" tvg-name="TN:WATANIA1" tvg-logo="http://tvchallenge.tn/logo/tunisia/watania1.png" group-title="Tunisia - تونس",TN:WATANIA1
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/890
-#EXTINF:-1 tvg-id="" tvg-name="TN:WATANIA2" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/nat210.png" group-title="Tunisia - تونس",TN:WATANIA2
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/891
-#EXTINF:-1 tvg-id="" tvg-name="TN:ELHIWAR" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/elhiwa10.jpg" group-title="Tunisia - تونس",TN:ELHIWAR
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/892
-#EXTINF:-1 tvg-id="" tvg-name="Tunisia Carthage" tvg-logo="" group-title="Tunisia - تونس",Tunisia Carthage
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2541
-#EXTINF:-1 tvg-id="" tvg-name="TN:HANNIBAL" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/hannib10.gif" group-title="Tunisia - تونس",TN:HANNIBAL
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/894
-#EXTINF:-1 tvg-id="" tvg-name="TN:ATTESIA" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/attess10.jpg" group-title="Tunisia - تونس",TN:ATTESIA
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/895
-#EXTINF:-1 tvg-id="" tvg-name="TN:MTUNISIA" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/m_tuni10.png" group-title="Tunisia - تونس",TN:MTUNISIA
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/896
-#EXTINF:-1 tvg-id="" tvg-name="TN:TELEVISION1" tvg-logo="http://tvchallenge.tn/logo/tunisia/television1.jpg" group-title="Tunisia - تونس",TN:TELEVISION1
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/903
-#EXTINF:-1 tvg-id="" tvg-name="TN: Nessma tv" tvg-logo="" group-title="Tunisia - تونس",TN: Nessma tv
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4340
-#EXTINF:-1 tvg-id="" tvg-name="TN:TELVZATV" tvg-logo="http://tvchallenge.tn/logo/tunisia/telvzatv.jpg" group-title="Tunisia - تونس",TN:TELVZATV
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/899
-#EXTINF:-1 tvg-id="" tvg-name="TN:JANOUBIA" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/janoub10.png" group-title="Tunisia - تونس",TN:JANOUBIA
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/898
-#EXTINF:-1 tvg-id="" tvg-name="TN:TOUNESNA" tvg-logo="http://tvchallenge.tn/logo/tunisia/tounesna.jpg" group-title="Tunisia - تونس",TN:TOUNESNA
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/897
-#EXTINF:-1 tvg-id="" tvg-name="Algerian:CANAL ALGERIE 2" tvg-logo="" group-title="Algeria - الجزائر",Algerian:CANAL ALGERIE 2
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/907
-#EXTINF:-1 tvg-id="" tvg-name="Algerian:ALGERIE3" tvg-logo="" group-title="Algeria - الجزائر",Algerian:ALGERIE3
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/908
-#EXTINF:-1 tvg-id="" tvg-name="Algerian:Fajr" tvg-logo="" group-title="Algeria - الجزائر",Algerian:Fajr
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/909
-#EXTINF:-1 tvg-id="" tvg-name="Algerian:ECHOUROUK" tvg-logo="" group-title="Algeria - الجزائر",Algerian:ECHOUROUK
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/911
-#EXTINF:-1 tvg-id="" tvg-name="Algerian::DzairTV" tvg-logo="" group-title="Algeria - الجزائر",Algerian::DzairTV
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/910
-#EXTINF:-1 tvg-id="" tvg-name="Algerian:   TV8 EDHAKIRA" tvg-logo="" group-title="Algeria - الجزائر",Algerian:   TV8 EDHAKIRA
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/912
-#EXTINF:-1 tvg-id="" tvg-name="Algerian: Echorouk NEWS" tvg-logo="" group-title="Algeria - الجزائر",Algerian: Echorouk NEWS
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/913
-#EXTINF:-1 tvg-id="" tvg-name="Algerian:SAMIRA TV" tvg-logo="" group-title="Algeria - الجزائر",Algerian:SAMIRA TV
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/915
-#EXTINF:-1 tvg-id="" tvg-name="Algerian:ENTV" tvg-logo="" group-title="Algeria - الجزائر",Algerian:ENTV
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/917
-#EXTINF:-1 tvg-id="" tvg-name="Algerian:Bahia Tv" tvg-logo="" group-title="Algeria - الجزائر",Algerian:Bahia Tv
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/946
-#EXTINF:-1 tvg-id="" tvg-name="Algerian:BEUR TV" tvg-logo="" group-title="Algeria - الجزائر",Algerian:BEUR TV
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/918
-#EXTINF:-1 tvg-id="" tvg-name="Algerian:ALHADEF" tvg-logo="" group-title="Algeria - الجزائر",Algerian:ALHADEF
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/919
-#EXTINF:-1 tvg-id="" tvg-name="AL MAGHRIBIA" tvg-logo="" group-title="Algeria - الجزائر",AL MAGHRIBIA
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/943
-#EXTINF:-1 tvg-id="" tvg-name="Algerian: AL24 News" tvg-logo="" group-title="Algeria - الجزائر",Algerian: AL24 News
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/941
-#EXTINF:-1 tvg-id="" tvg-name="Algerian:ELHAYA-ALGERIE" tvg-logo="" group-title="Algeria - الجزائر",Algerian:ELHAYA-ALGERIE
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/938
-#EXTINF:-1 tvg-id="" tvg-name="Algerian: ENNAHAR TV" tvg-logo="" group-title="Algeria - الجزائر",Algerian: ENNAHAR TV
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/935
-#EXTINF:-1 tvg-id="" tvg-name="Algerian: KBC TV" tvg-logo="" group-title="Algeria - الجزائر",Algerian: KBC TV
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/932
-#EXTINF:-1 tvg-id="" tvg-name="Algerian: Zahra TV" tvg-logo="" group-title="Algeria - الجزائر",Algerian: Zahra TV
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/933
-#EXTINF:-1 tvg-id="" tvg-name="Algerian: Algerie 7 Elmaarifa" tvg-logo="" group-title="Algeria - الجزائر",Algerian: Algerie 7 Elmaarifa
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/927
-#EXTINF:-1 tvg-id="" tvg-name="Algerian:ENNAHAR" tvg-logo="" group-title="Algeria - الجزائر",Algerian:ENNAHAR
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/924
-#EXTINF:-1 tvg-id="" tvg-name="Algerian:Algerie 8 Edhakira" tvg-logo="" group-title="Algeria - الجزائر",Algerian:Algerie 8 Edhakira
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/922
-#EXTINF:-1 tvg-id="" tvg-name="Algerian-ELBILAD" tvg-logo="" group-title="Algeria - الجزائر",Algerian-ELBILAD
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/926
-#EXTINF:-1 tvg-id="" tvg-name="Algerian: Elwatania " tvg-logo="" group-title="Algeria - الجزائر",Algerian: Elwatania 
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/925
-#EXTINF:-1 tvg-id="" tvg-name="Algerian: ALGERIE3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyWMbbCrOELe33Wb6apad2Kra-fZJWsmWRWhLDret9Z56MZAHXGA" group-title="Algeria - الجزائر",Algerian: ALGERIE3
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/928
-#EXTINF:-1 tvg-id="" tvg-name="Algerian: ALGERIE4" tvg-logo="" group-title="Algeria - الجزائر",Algerian: ALGERIE4
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/929
-#EXTINF:-1 tvg-id="" tvg-name="Algerian: ALGERIE5" tvg-logo="" group-title="Algeria - الجزائر",Algerian: ALGERIE5
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/930
-#EXTINF:-1 tvg-id="" tvg-name="algerian: shababia 6" tvg-logo="" group-title="Algeria - الجزائر",algerian: shababia 6
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3971
-#EXTINF:-1 tvg-id="" tvg-name="SY: SYRIA. ALOULA" tvg-logo="" group-title="Syria - سوريا",SY: SYRIA. ALOULA
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2000
-#EXTINF:-1 tvg-id="" tvg-name="SY: SYRIA.DRAMA" tvg-logo="" group-title="Syria - سوريا",SY: SYRIA.DRAMA
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2001
-#EXTINF:-1 tvg-id="" tvg-name="Syr-Sama-TV+" tvg-logo="" group-title="Syria - سوريا",Syr-Sama-TV+
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2002
-#EXTINF:-1 tvg-id="" tvg-name="SY: LANA Tv" tvg-logo="" group-title="Syria - سوريا",SY: LANA Tv
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2003
-#EXTINF:-1 tvg-id="" tvg-name="SY: Sama.alsham" tvg-logo="" group-title="Syria - سوريا",SY: Sama.alsham
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2013
-#EXTINF:-1 tvg-id="" tvg-name="SY: SYRIA-TV2" tvg-logo="" group-title="Syria - سوريا",SY: SYRIA-TV2
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2005
-#EXTINF:-1 tvg-id="" tvg-name="SY: NOUREL SHAM" tvg-logo="" group-title="Syria - سوريا",SY: NOUREL SHAM
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2012
-#EXTINF:-1 tvg-id="" tvg-name="SY: Al.KhabarTV HD*" tvg-logo="" group-title="Syria - سوريا",SY: Al.KhabarTV HD*
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2010
-#EXTINF:-1 tvg-id="" tvg-name="SY:  LANA Tv HD*" tvg-logo="" group-title="Syria - سوريا",SY:  LANA Tv HD*
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2009
-#EXTINF:-1 tvg-id="" tvg-name="SY: Syria FM" tvg-logo="" group-title="Syria - سوريا",SY: Syria FM
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2004
-#EXTINF:-1 tvg-id="" tvg-name="SY: Syria alyoum" tvg-logo="" group-title="Syria - سوريا",SY: Syria alyoum
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2008
-#EXTINF:-1 tvg-id="" tvg-name="SY: SYRIA.ALIKHBARIA" tvg-logo="" group-title="Syria - سوريا",SY: SYRIA.ALIKHBARIA
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2006
-#EXTINF:-1 tvg-id="" tvg-name="LBC" tvg-logo="" group-title="Lebanon - لبنان",LBC
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3025
-#EXTINF:-1 tvg-id="" tvg-name="LBCI.International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" group-title="Lebanon - لبنان",LBCI.International
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3026
-#EXTINF:-1 tvg-id="" tvg-name="LEBANON TV" tvg-logo="" group-title="Lebanon - لبنان",LEBANON TV
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3028
-#EXTINF:-1 tvg-id="" tvg-name="MTV LEBANON" tvg-logo="https://code-gsm.com/logo/lebonan.jpg" group-title="Lebanon - لبنان",MTV LEBANON
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3029
-#EXTINF:-1 tvg-id="" tvg-name="FUTURE LEBANON" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/future_tv_international.jpg" group-title="Lebanon - لبنان",FUTURE LEBANON
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3031
-#EXTINF:-1 tvg-id="" tvg-name="AL MANAR" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_manar_tv.jpg" group-title="Lebanon - لبنان",AL MANAR
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3034
-#EXTINF:-1 tvg-id="" tvg-name="NOUR AL SHAM" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/sy-nour-el-sham-tv.jpg" group-title="Lebanon - لبنان",NOUR AL SHAM
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3037
-#EXTINF:-1 tvg-id="" tvg-name="AL JADEED LEBANON" tvg-logo="https://www.lstatic.org/UserFiles/images/Lebanon/Diverts/Large/aljadeed-logo.jpg" group-title="Lebanon - لبنان",AL JADEED LEBANON
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3038
-#EXTINF:-1 tvg-id="" tvg-name="SAUDI: AL EKHBARIYA" tvg-logo="" group-title="News - قنوات الأخبار",SAUDI: AL EKHBARIYA
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3039
-#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://code-gsm.com/logo/otv.png" group-title="Lebanon - لبنان",OTV
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3040
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC 1 HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC 1 HD
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/845
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC 2 HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC 2 HD
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/846
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC 3 HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC 3 HD
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/847
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC 4 HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC 4 HD
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/848
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC 5 HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC 5 HD
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/2114
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC Bollywood HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC Bollywood HD
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/849
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC Massr HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC Massr HD
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/850
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC Masr 2 HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC Masr 2 HD
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/851
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC Drama HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC Drama HD
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/852
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC Action HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC Action HD
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/853
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC Max HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC Max HD
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/854
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC Iraq HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC Iraq HD
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/855
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC Drama+ HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC Drama+ HD
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/856
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC+Variety HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC+Variety HD
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/857
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC Persia" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC Persia
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/3802
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC Wanasah" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC Wanasah
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/3803
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC FM" tvg-logo="" group-title="MBC [ MyHD ]",AR: MBC FM
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/3737
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: FOX Life HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: FOX Life HD
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/860
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: star crime HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: star crime HD
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/861
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: FX HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: FX HD
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/865
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: star action" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: star action
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/867
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: Planet Earth HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: Planet Earth HD
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/869
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: Discovery SC HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: Discovery SC HD
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/871
+#EXTINF:-1 tvg-id="" tvg-name="MYHD:  4kids" tvg-logo="" group-title="MBC [ MyHD ]",MYHD:  4kids
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/872
+#EXTINF:-1 tvg-id="" tvg-name="MBC_1 sd" tvg-logo="" group-title="MBC [ MyHD ]",MBC_1 sd
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/2771
+#EXTINF:-1 tvg-id="" tvg-name="MBC_2 sd" tvg-logo="" group-title="MBC [ MyHD ]",MBC_2 sd
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/2772
+#EXTINF:-1 tvg-id="" tvg-name="MBC_3 sd" tvg-logo="" group-title="MBC [ MyHD ]",MBC_3 sd
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/2773
+#EXTINF:-1 tvg-id="" tvg-name="MBC_4 sd" tvg-logo="" group-title="MBC [ MyHD ]",MBC_4 sd
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/2774
+#EXTINF:-1 tvg-id="" tvg-name=",MBC_5 sd" tvg-logo="" group-title="MBC [ MyHD ]",,MBC_5 sd
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/2775
+#EXTINF:-1 tvg-id="" tvg-name="MBC_MAX sd" tvg-logo="" group-title="MBC [ MyHD ]",MBC_MAX sd
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/2776
+#EXTINF:-1 tvg-id="" tvg-name="MBC_ACTION sd" tvg-logo="" group-title="MBC [ MyHD ]",MBC_ACTION sd
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/2777
+#EXTINF:-1 tvg-id="" tvg-name="MBC_DRAMA sd" tvg-logo="" group-title="MBC [ MyHD ]",MBC_DRAMA sd
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/2778
+#EXTINF:-1 tvg-id="" tvg-name="MBC_MASR sd" tvg-logo="" group-title="MBC [ MyHD ]",MBC_MASR sd
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/2779
+#EXTINF:-1 tvg-id="" tvg-name="MBC_MASR 2 sd" tvg-logo="" group-title="MBC [ MyHD ]",MBC_MASR 2 sd
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/2780
+#EXTINF:-1 tvg-id="" tvg-name="MBC_FM_PANORAMA sd" tvg-logo="" group-title="MBC [ MyHD ]",MBC_FM_PANORAMA sd
+http://ugeen.live:8080/kaicer_VIPg85r6f/7l9cbx/2781
