@@ -1,3 +1,5 @@
-host: "http://picbein.xyz:80",
-username: "burhan4732",
-password: "07112022asd@"
+{
+  "host": "http://picbein.xyz:80",
+  "username": "burhan4732",
+  "password": "07112022asd@"
+}
